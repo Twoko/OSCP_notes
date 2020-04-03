@@ -1,9 +1,9 @@
-                  (OSCP/CheatSheet)
+                                            (OSCP/CheatSheet)
 
 
 
 
-Alex Dib
+From \Alex Dib
 
 
 SSH Tunneling / Pivoting  `sshuttle
